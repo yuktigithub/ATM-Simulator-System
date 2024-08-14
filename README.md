@@ -4,28 +4,28 @@ This project is an ATM Simulator System developed using Java (Swing and AWT) for
 
 ## Features
 1.User Authentication:
--Login: Users can log in with their credentials.
--Sign Up: New users can sign up to create an account.
+- Login: Users can log in with their credentials.
+- Sign Up: New users can sign up to create an account.
 
 2.Transaction Page:
--Cash Withdrawal: Allows users to withdraw cash from their account.
--Balance Enquiry: Displays the current balance of the user’s account.
--Deposit: Users can deposit money into their account.
--Mini Statement: Provides a brief statement of recent transactions.
--Fast Cash: Quick withdrawal of a predefined amount.
--Exit: Safely logs the user out of the system.
+- Cash Withdrawal: Allows users to withdraw cash from their account.
+- Balance Enquiry: Displays the current balance of the user’s account.
+- Deposit: Users can deposit money into their account.
+- Mini Statement: Provides a brief statement of recent transactions.
+- Fast Cash: Quick withdrawal of a predefined amount.
+- Exit: Safely logs the user out of the system.
 
 ## Technologies Used
--Java: Core logic, GUI using Swing and AWT
--Swing & AWT: For building the graphical user interface
--MySQL: Database management for storing account and transaction information
--JDBC: For database connectivity between Java and MySQL
+- Java: Core logic, GUI using Swing and AWT
+- Swing & AWT: For building the graphical user interface
+- MySQL: Database management for storing account and transaction information
+- JDBC: For database connectivity between Java and MySQL
 
 # Setup and Installation
 ## Prerequisites
--Java Development Kit (JDK)
--MySQL Server installed and running
--IDE: Recommended to use NetBeans or Eclipse for running the project
+- Java Development Kit (JDK)
+- MySQL Server installed and running
+- IDE: Recommended to use NetBeans or Eclipse for running the project
  
 # Screenshots
 
@@ -62,6 +62,7 @@ This project is an ATM Simulator System developed using Java (Swing and AWT) for
 
 ## Mini statement
 ![Screenshot 2024-08-14 180353](https://github.com/user-attachments/assets/65d5231b-9f26-4f28-b8b4-af9943f6575a)
+
 
 
 
