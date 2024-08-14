@@ -1,0 +1,15 @@
+create database bankmanagementsystem ;
+use bankmanagementsystem;
+
+create table signup (formNo varchar(20) primary key, fullname varchar(30) , father_name varchar(30), dob varchar(30), gender varchar(20), email varchar(20),  martial varchar(20),
+address varchar(50), city varchar(20), pincode varchar(20),state varchar(30)) ;
+
+create table signuptwo (formNo varchar(20), religion varchar(20) , category varchar(20), income varchar(30), education varchar(20), occupation varchar(20),  pan varchar(20),
+aadhar varchar(20), senior_citizen varchar(10), existing_account varchar(10)) ;
+
+create table signupthree (formNo varchar(20), account_type varchar(50) , card_number varchar(16), pin_number varchar(50), facility varchar(100)) ;
+create table login (formNo varchar(20), card_number varchar(16), pin_number varchar(10));
+
+create table bank (pin varchar(10), date varchar(50), type varchar(20), amount varchar(20));
+
+show tables;
