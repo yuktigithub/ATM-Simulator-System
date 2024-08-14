@@ -1,5 +1,5 @@
-#ATM Simulator System
-##Overview
+# ATM Simulator System
+## Overview
 This project is an ATM Simulator System developed using Java (Swing and AWT) for the frontend and MySQL for the backend. The system simulates the basic functionalities of an ATM, allowing users to manage their bank accounts through a simple and intuitive interface. Users can perform transactions like cash withdrawal, balance inquiry, deposits, and more.
 
 ##Features
